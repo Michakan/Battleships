@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Battleships configuration file</comment>
+    <entry key="theme">Dark</entry>
+    <entry key="language">pl</entry>
+    <entry key="country">PL</entry>
+</properties>
